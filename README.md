@@ -1,2 +1,2 @@
-# my-repo
-my first repository 
+# demo
+trying new thungs
